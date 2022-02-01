@@ -1,5 +1,6 @@
 # NBA-Simulator
-Inspired from Ken Jee's own NBA Simulator, scrapes NBA team data from Basketball Reference
+Inspired from Ken Jee's own NBA Simulator, scrapes NBA team data from Basketball Reference.
+This was supposed to be only for personal use but could probably bring some value to gamblers as well.
 
 ## Usage
 ```python
@@ -20,6 +21,8 @@ Then ran into a for loop.
 
 Returns an excel file of team dataset following this column format:
 ![image](https://user-images.githubusercontent.com/95164825/152002877-a1eb97b9-37a2-47c1-a7eb-fc36a6256972.png)
+
+Sample complete dataset and individual team data is included.
 
 ## Contributing
 Pull requests regarding optimization of code and/or better update automation of dataset is welcome.
