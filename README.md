@@ -1,6 +1,7 @@
 # NBA-Simulator
 Inspired from Ken Jee's own NBA Simulator, scrapes NBA team data from Basketball Reference.
-This was supposed to be only for personal use but could probably bring some value to gamblers as well.
+
+This was supposed to be only for personal use but could probably bring some value to gamblers to have analytics as well.
 
 ## Usage
 ```python
